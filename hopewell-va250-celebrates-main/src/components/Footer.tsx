@@ -31,6 +31,7 @@ const Footer = () => {
               <li><a href="#timeline" className="text-gray-300 hover:text-white transition-colors duration-300">Timeline</a></li>
               <li><a href="#events" className="text-gray-300 hover:text-white transition-colors duration-300">Events</a></li>
               <li><a href="#sites" className="text-gray-300 hover:text-white transition-colors duration-300">Historic Sites</a></li>
+              <li><a href="https://www.hopewellva.gov/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors duration-300">Hopewell Website</a></li>
             </ul>
           </div>
 
@@ -44,11 +45,11 @@ const Footer = () => {
               </div>
               <div className="flex items-center">
                 <Mail className="w-4 h-4 mr-2 text-[#BF0A30]" />
-                <span className="text-gray-300">va250@hopewell.gov</span>
+                <span className="text-gray-300">info@hopewellva.gov</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="w-4 h-4 mr-2 text-[#BF0A30]" />
-                <span className="text-gray-300">300 N Main St, Hopewell, VA</span>
+                <span className="text-gray-300">300 N Main St, Hopewell, VA 23860</span>
               </div>
             </div>
           </div>
