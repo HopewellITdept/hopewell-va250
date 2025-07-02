@@ -25,4 +25,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           publish_dir: /dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           cname: hopewellva250.org
