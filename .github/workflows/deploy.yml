@@ -32,6 +32,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           # If you use a custom domain:
           cname: hopewellva250.org
