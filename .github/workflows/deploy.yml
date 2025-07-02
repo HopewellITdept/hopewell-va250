@@ -1,36 +1,37 @@
-name: Deploy to GitHub Pages
+# .github/workflows/deploy.yml
+name: Deploy static site to Pages
 
 on:
   push:
-    branches:
-      - main  # or your default branch
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  build-and-deploy:
+  build-deploy:
+    concurrency:
+      group: "pages"
+      cancel-in-progress: true
+
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
-          node-version: 20 # Or whatever version you're using
+          node-version: 18
 
-      - name: Install dependencies
-        run: npm ci
- 
-      - name: Build
-        run: npm run build
+      - run: npm ci
 
-      - name: Add CNAME
-        run: cp public/CNAME dist/CNAME
+      - run: npm run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: gh-pages
+          # If you use a custom domain:
           cname: hopewellva250.org
