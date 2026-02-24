@@ -174,7 +174,7 @@ const EventCalendarEnhanced = () => {
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
                 <a
-                  href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
+                  href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block max-w-xs"
@@ -187,7 +187,7 @@ const EventCalendarEnhanced = () => {
                 </a>
 
                 <a
-                  href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
+                  href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block max-w-xs"
