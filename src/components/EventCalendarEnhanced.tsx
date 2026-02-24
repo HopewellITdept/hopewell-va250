@@ -23,7 +23,7 @@ const EventCalendarEnhanced = () => {
     ? events 
     : events.filter(event => event.type === selectedFilter);
 
-  const marqueeText = "Events to be announced soon • Stay tuned for Hopewell VA250 celebration details • ";
+  const marqueeText = "UPCOMING EVENTS in 2026!";
 
   return (
     <section id="events" className="py-20 bg-gradient-to-b from-red-100 via-blue-50 to-blue-100 relative overflow-hidden">
@@ -142,7 +142,7 @@ const EventCalendarEnhanced = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: 0.2 }}
               >
-                Events to be announced soon
+                UPCOMING EVENTS in 2026!
               </motion.h2>
               <motion.p 
                 className="text-lg text-gray-700 text-center"
@@ -151,7 +151,7 @@ const EventCalendarEnhanced = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: 0.4 }}
               >
-                Check back soon for Hopewell VA250 celebration event details!
+                UPCOMING EVENTS in 2026!
               </motion.p>
               
               {/* Optional decorative element */}
@@ -164,6 +164,41 @@ const EventCalendarEnhanced = () => {
               >
                 <div className="w-12 h-1 bg-gradient-to-r from-[#002868] to-[#BF0A30] rounded-full"></div>
               </motion.div>
+
+              {/* partner/affiliate links with images */}
+              <motion.div
+                className="mt-8 flex flex-wrap justify-center gap-8"
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.8, delay: 0.8 }}
+              >
+                <a
+                  href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="block max-w-xs"
+                >
+                  <img
+                    src="/Ship offshore.png"
+                    alt="Photo of a ship"
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                  />
+                </a>
+
+                <a
+                  href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="block max-w-xs"
+                >
+                  <img
+                    src="/War 1.png"
+                    alt="Photo of war generals "
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                  />
+                </a>
+              </motion.div>
             </motion.div>
           </BackgroundGradient>
         </div>
@@ -173,3 +208,4 @@ const EventCalendarEnhanced = () => {
 };
 
 export default EventCalendarEnhanced;
+
