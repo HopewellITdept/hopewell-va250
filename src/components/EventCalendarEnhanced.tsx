@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { BackgroundGradient } from './ui/background-gradient';
 
 const EventCalendarEnhanced = () => {
-  const [selectedView, setSelectedView] = useState<'month' | 'list'>('list');
+  const [selectedView, setSelectedView] = useState<'month' | 'list'>('list'); 
   const [selectedFilter, setSelectedFilter] = useState<string>('all');
 
   // Empty events array - all events to be announced
