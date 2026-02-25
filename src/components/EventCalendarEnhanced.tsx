@@ -173,6 +173,12 @@ const EventCalendarEnhanced = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+<td style="width: 50%; border: none; padding: 10px;">
+
+                
                 <a
                   href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
                   target="_blank" 
@@ -185,13 +191,16 @@ const EventCalendarEnhanced = () => {
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                   />
                 </a>
-
+</td>
+    
                 <a
                   href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block max-w-xs"
                 >
+
+<td style="width: 50%; border: none; padding: 10px;">                  
                   <img
                     src="/lovable-uploads/War-1.png"
                     alt="Photo of war generals "
@@ -199,6 +208,9 @@ const EventCalendarEnhanced = () => {
                     title="War Stories and Heroes of Hopewell, Virginia"
                   />
                 </a>
+                </td>   
+      </tr>
+</table>
               </motion.div>
             </motion.div>
           </BackgroundGradient>
