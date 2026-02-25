@@ -174,9 +174,9 @@ const EventCalendarEnhanced = () => {
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 50%; border-collapse: collapse; border: none;">
   <tr>
-<td style="width: 50%; border: none; padding: 10px;">
+<td style="width: 25%; border: none; padding: 5px;">
 
                 
                 <a
@@ -200,7 +200,7 @@ const EventCalendarEnhanced = () => {
                   className="block max-w-xs"
                 >
 
-<td style="width: 50%; border: none; padding: 10px;">                  
+<td style="width: 25%; border: none; padding: 5px;">                  
                   <img
                     src="/lovable-uploads/War-1.png"
                     alt="Photo of war generals "
