@@ -176,9 +176,7 @@ const EventCalendarEnhanced = () => {
 
 <table style="width: 100px; border-collapse: collapse; border: none;">
   <tr>
-<td style="width: 50px; border: none; padding: 5px;">
-
-                
+<td style="width: 50px; border: none; padding: 5px;">      
                 <a
                   href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
                   target="_blank" 
@@ -194,15 +192,13 @@ const EventCalendarEnhanced = () => {
                   />
                 </a>
 </td>
-    
+<td style="width: 50px; border: none; padding: 5px;">       
                 <a
                   href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block max-w-xs"
-                >
-
-<td style="width: 50px; border: none; padding: 5px;">                  
+                >            
                   <img
                     src="/lovable-uploads/War-1.png"
                     width="25"
