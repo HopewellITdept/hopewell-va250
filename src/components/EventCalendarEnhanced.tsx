@@ -174,9 +174,9 @@ const EventCalendarEnhanced = () => {
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
 
-<table style="width: 50%; border-collapse: collapse; border: none;">
+<table style="width: 100px; border-collapse: collapse; border: none;">
   <tr>
-<td style="width: 25%; border: none; padding: 5px;">
+<td style="width: 50px; border: none; padding: 5px;">
 
                 
                 <a
@@ -187,7 +187,7 @@ const EventCalendarEnhanced = () => {
                 >
                   <img
                     src="/lovable-uploads/Ship-offshore.png"
-                    width="50"
+                    width="25"
                     alt="Photo of a ship"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="City Point Historic District Walking Tour"
@@ -202,10 +202,10 @@ const EventCalendarEnhanced = () => {
                   className="block max-w-xs"
                 >
 
-<td style="width: 25%; border: none; padding: 5px;">                  
+<td style="width: 50px; border: none; padding: 5px;">                  
                   <img
                     src="/lovable-uploads/War-1.png"
-                    width="50"
+                    width="25"
                     alt="Photo of war generals "
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="War Stories and Heroes of Hopewell, Virginia"
