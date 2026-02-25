@@ -193,7 +193,7 @@ const EventCalendarEnhanced = () => {
                   className="block max-w-xs"
                 >
                   <img
-                    src="/lovable-uploads/War-generals.png"
+                    src="/lovable-uploads/War-1.png"
                     alt="Photo of war generals "
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                   />
