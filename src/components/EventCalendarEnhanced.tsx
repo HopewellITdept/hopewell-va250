@@ -174,9 +174,9 @@ const EventCalendarEnhanced = () => {
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
 
-<table style={{ width: '150px', borderCollapse: 'collapse', border: 'none' }}>
+<table style={{ width: '200px', borderCollapse: 'collapse', border: 'none' }}>
   <tr>
-<td style={{ width: '75px', border: 'none', padding: '5px' }}>      
+<td style={{ width: '100px', border: 'none', padding: '5px' }}>      
                 <a
                   href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
                   target="_blank" 
@@ -192,7 +192,7 @@ const EventCalendarEnhanced = () => {
                   />
                 </a>
 </td>
-<td style={{ width: '75px', border: 'none', padding: '5px' }}>        
+<td style={{ width: '100px', border: 'none', padding: '5px' }}>        
                 <a
                   href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
                   target="_blank" 
