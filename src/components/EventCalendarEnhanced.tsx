@@ -174,9 +174,9 @@ const EventCalendarEnhanced = () => {
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
 
-<table style={{ width: '100px', borderCollapse: 'collapse', border: 'none' }}>
+<table style={{ width: '150px', borderCollapse: 'collapse', border: 'none' }}>
   <tr>
-<td style={{ width: '50px', border: 'none', padding: '5px' }}>      
+<td style={{ width: '75px', border: 'none', padding: '5px' }}>      
                 <a
                   href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
                   target="_blank" 
@@ -185,14 +185,14 @@ const EventCalendarEnhanced = () => {
                 >
                   <img
                     src="/lovable-uploads/Ship-offshore.png"
-                    width="25"
+                    width="35"
                     alt="Photo of a ship"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="City Point Historic District Walking Tour"
                   />
                 </a>
 </td>
-<td style={{ width: '50px', border: 'none', padding: '5px' }}>        
+<td style={{ width: '75px', border: 'none', padding: '5px' }}>        
                 <a
                   href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
                   target="_blank" 
@@ -201,7 +201,7 @@ const EventCalendarEnhanced = () => {
                 >            
                   <img
                     src="/lovable-uploads/War-1.png"
-                    width="25"
+                    width="35"
                     alt="Photo of war generals "
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="War Stories and Heroes of Hopewell, Virginia"
