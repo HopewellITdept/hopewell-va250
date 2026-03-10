@@ -185,8 +185,7 @@ const EventCalendarEnhanced = () => {
                 >
                   <figure><img
                     src="/lovable-uploads/Ship-offshore.png"
-                    width="125"
-                    height="150"
+                    width="135"
                     alt="Photo of a ship"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="City Point Historic District Walking Tour"
