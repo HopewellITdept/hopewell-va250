@@ -189,7 +189,7 @@ const EventCalendarEnhanced = () => {
                     alt="Photo of a ship"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="City Point Historic District Walking Tour"
-                  /><figcaption>City Point Historic District Walking Tour</figcaption></figure>
+                  /><figcaption><strong></strong>City Point Historic District Walking Tour</strong></figcaption></figure>
                 </a>
 </td>
 <td style={{ width: '250px', border: 'none', padding: '5px' }}>        
@@ -205,7 +205,7 @@ const EventCalendarEnhanced = () => {
                     alt="Photo of war generals "
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="War Stories and Heroes of Hopewell, Virginia"
-                  /><figcaption>War Stories and Heroes of Hopewell, Virginia</figcaption></figure>
+                  /><figcaption><strong></strong>War Stories and Heroes of Hopewell, Virginia</strong></figcaption></figure>
                 </a>
                 </td>   
       </tr>
