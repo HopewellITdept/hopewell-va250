@@ -185,7 +185,7 @@ const EventCalendarEnhanced = () => {
                 >
                   <figure><img
                     src="/lovable-uploads/Ship-offshore.png"
-                    width="135"
+                    width="125"
                     alt="Photo of a ship"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="City Point Historic District Walking Tour"
@@ -217,7 +217,7 @@ const EventCalendarEnhanced = () => {
                 >
                   <figure><img
                     src="/lovable-uploads/Grant.png"
-                    width="135"
+                    width="125"
                     alt="Photo of a General Grant"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="Grant at City Point"
