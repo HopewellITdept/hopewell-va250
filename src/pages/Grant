@@ -1,1 +1,8 @@
-
+<table style={{width: '100%', border: 'none', padding: '5px' }}>
+  <tr>
+    <td style="border: none; padding: 10px;">Column 1</td>
+    <td style="border: none; padding: 10px;">Column 2</td>
+    <td style="border: none; padding: 10px;">Column 3</td>
+    <td style="border: none; padding: 10px;">Column 4</td>
+  </tr>
+</table>
