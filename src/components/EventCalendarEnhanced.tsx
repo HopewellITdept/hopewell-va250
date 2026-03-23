@@ -184,7 +184,7 @@ const EventCalendarEnhanced = () => {
                   className="block max-w-xs"
                 >
                   <figure><img
-                    src="/lovable-uploads/Ship-offshore_r.jpg"
+                    src="/lovable-uploads/Ships-offshore_r.jpg"
                     width="120"
                     alt="Photo of a ship"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
