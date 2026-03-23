@@ -174,7 +174,7 @@ const EventCalendarEnhanced = () => {
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
 
-<table style={{ width: '500px', borderCollapse: 'collapse', border: 'none' }}>
+<table style={{ width: '520px', borderCollapse: 'collapse', border: 'none' }}>
   <tr>
 <td style={{ width: '130px', border: 'none', padding: '5px' }}>      
                 <a
