@@ -210,7 +210,7 @@ const EventCalendarEnhanced = () => {
                 </td> 
  <td style={{ width: '130px', border: 'none', padding: '5px' }}>      
                 <a
-                  href="src/pages/Grant" 
+                  href="#" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block max-w-xs"
