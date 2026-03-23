@@ -210,7 +210,7 @@ const EventCalendarEnhanced = () => {
                 </td> 
  <td style={{ width: '130px', border: 'none', padding: '5px' }}>      
                 <a
-                  href="https://github.com/HopewellITdept/hopewell-va250/edit/main/src/pages/Grant" 
+                  href="src/pages/Grant" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block max-w-xs"
