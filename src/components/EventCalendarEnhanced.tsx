@@ -192,7 +192,7 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>City Point Historic District Walking Tour</strong></figcaption></figure>
                 </a>
 </td>
-<td style={{ width: '120px', border: 'none', padding: '5px' }}>        
+<td style={{ width: '110px', border: 'none', padding: '5px' }}>        
                 <a
                   href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
                   target="_blank" 
@@ -201,7 +201,7 @@ const EventCalendarEnhanced = () => {
                 >            
                   <figure><img
                     src="/lovable-uploads/War-1.png"
-                    width="120"
+                    width="110"
                     alt="Photo of war generals "
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="War Stories and Heroes of Hopewell, Virginia"
