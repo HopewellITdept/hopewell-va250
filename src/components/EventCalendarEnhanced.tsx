@@ -204,7 +204,7 @@ const EventCalendarEnhanced = () => {
                     alt="Photo of war generals "
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="War Stories and Heroes of Hopewell, Virginia"
-                  /><figcaption><strong>War Stories and Heroes of Hopewell, Virginia</strong></figcaption></figure>
+                  /><figcaption><strong>War Stories and Heroes of Hopewell</strong></figcaption></figure>
                 </a>
                 </td> 
  <td style={{ width: '100px', border: 'none', padding: '5px' }}>   
