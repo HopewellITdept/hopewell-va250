@@ -198,7 +198,7 @@ const EventCalendarEnhanced = () => {
                   className="block max-w-xs"
                 >            
                   <figure><img
-                    src="/lovable-uploads/War-1.png"
+                    src="/lovable-uploads/War-2.jpg"
                     alt="Photo of war generals "
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="War Stories and Heroes of Hopewell, Virginia"
