@@ -184,7 +184,6 @@ const EventCalendarEnhanced = () => {
                 >
                   <figure><img
                     src="/lovable-uploads/Ships-offshore_r.jpg"
-                    width="100"
                     alt="Photo of a ship"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="City Point Historic District Walking Tour"
@@ -200,7 +199,6 @@ const EventCalendarEnhanced = () => {
                 >            
                   <figure><img
                     src="/lovable-uploads/War-1.png"
-                    width="100"
                     alt="Photo of war generals "
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="War Stories and Heroes of Hopewell, Virginia"
@@ -216,7 +214,6 @@ const EventCalendarEnhanced = () => {
                 >
                   <figure><img
                     src="/lovable-uploads/Grant.jpg"
-                    width="100"
                     alt="Photo of a General Grant"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                     title="Grant at City Point"
