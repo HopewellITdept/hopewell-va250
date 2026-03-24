@@ -1,9 +1,37 @@
 <table style={{width: '100%', border: 'none', padding: '5px' }}>
   <tr>
-    <td style="border: none; padding: 10px;">Column 1</td>
-    <td style="border: none; padding: 10px;">Column 2</td>
-    <td style="border: none; padding: 10px;">Column 3</td>
-    <td style="border: none; padding: 10px;">Column 4</td>
+    <td style="border: none; padding: 10px;"><a
+                  href="/lovable-uploads/Grant.jpg"><img
+                    src="/lovable-uploads/Grant.jpg"
+                    alt="Photo of General Grant "
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                    title="Grant seated in Hopewell, VA"
+                  />
+                </a></td>
+    <td style="border: none; padding: 10px;"><a
+                  href="/lovable-uploads/Grant2.jpg"><img
+                    src="/lovable-uploads/Grant2.jpg"
+                    alt="Photo of war generals "
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                    title="Generals conferencing in Hopewell, Virginia"
+                  />
+                </a></td>
+    <td style="border: none; padding: 10px;"><a
+                  href="/lovable-uploads/Grant3.jpg"><img
+                    src="/lovable-uploads/Grant3.jpg"
+                    alt="Photo of General Grant seated "
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                    title="General Grant seated in Hopewell, Virginia"
+                  />
+                </a></td>
+    <td style="border: none; padding: 10px;"><a
+                  href="/lovable-uploads/Grant4.jpg"><img
+                    src="/lovable-uploads/Grant4.jpg"
+                    alt="Photo of generals seated in Hopewell, VA "
+                    className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+                    title="Generals seated in Hopewell, Virginia"
+                  />
+                </a></td>
   </tr>
 </table>
 <br><br><br>
@@ -11,4 +39,4 @@
 <p>Much of what we know of the operations at City Point comes from the photographs and sketches made there during the campaign. As part of this event, visitors will have the opportunity to learn action sketching and try it firsthand at the encampment! Join a ranger for this pop-up program any time from 12 pm to 3 pm on Saturday and 10 am to 12 
 pm on Sunday.</p>
 <p>The event is weather permitting. All Petersburg National Battlefield events and program 
-are free.</p>
+are free.</p>     
