@@ -208,9 +208,9 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>War Stories and Heroes of Hopewell, Virginia</strong></figcaption></figure>
                 </a>
                 </td> 
- <td style={{ width: '120px', border: 'none', padding: '5px' }}>      
-                <a
-                  href="src/pages/Grant" 
+ <td style={{ width: '120px', border: 'none', padding: '5px' }}>   
+<a
+                  href="https://github.com/HopewellITdept/hopewell-va250/blob/main/src/pages/Grant" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block max-w-xs"
