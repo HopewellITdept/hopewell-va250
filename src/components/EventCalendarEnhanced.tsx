@@ -176,7 +176,7 @@ const EventCalendarEnhanced = () => {
 
 <table style={{ width: '520px', borderCollapse: 'collapse', border: 'none' }}>
   <tr>
-<td style={{ width: '120px', border: 'none', padding: '5px' }}>      
+<td style={{ width: '120px', border: 'none', padding: '2px' }}>      
                 <a
                   href="https://storymaps.arcgis.com/stories/ba38d853448343528c775a471a1646ce" 
                   target="_blank" 
@@ -192,7 +192,7 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>City Point Historic District Walking Tour</strong></figcaption></figure>
                 </a>
 </td>
-<td style={{ width: '110px', border: 'none', padding: '5px' }}>        
+<td style={{ width: '110px', border: 'none', padding: '2px' }}>        
                 <a
                   href="https://storymaps.arcgis.com/stories/a1095c64e5ac45a59ef6a20a7183d45e" 
                   target="_blank" 
@@ -208,7 +208,7 @@ const EventCalendarEnhanced = () => {
                   /><figcaption><strong>War Stories and Heroes of Hopewell, Virginia</strong></figcaption></figure>
                 </a>
                 </td> 
- <td style={{ width: '120px', border: 'none', padding: '5px' }}>   
+ <td style={{ width: '120px', border: 'none', padding: '2px' }}>   
 <a
                   href="https://github.com/HopewellITdept/hopewell-va250/blob/main/src/pages/Grant" 
                   target="_blank" 
