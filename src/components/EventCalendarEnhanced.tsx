@@ -151,7 +151,7 @@ const EventCalendarEnhanced = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: 0.4 }}
               >
-                UPCOMING EVENTS in 2026!
+                JOIN US FOR THESE SCHEDULED EVENTS in 2026!
               </motion.p>
               
               {/* Optional decorative element */}
