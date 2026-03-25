@@ -216,7 +216,7 @@ const EventCalendarEnhanced = () => {
                     src="/lovable-uploads/Grant.jpg"
                     alt="Photo of a General Grant"
                     className="w-full rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
-                    title="Grant at City Point"
+                    title="General Ulysses S. Grant at City Point"
                   /><figcaption><strong>General Ulysses S. Grant at City Point</strong></figcaption></figure>
                 </a>
 </td>   
